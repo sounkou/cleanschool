@@ -1,3 +1,10 @@
-<html>
-bienvenue
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Test</title>
+</head>
+<body>
+<h1>Notre premier test</h1>
+<p>bienvenue</p>
+</body>
 </html>
